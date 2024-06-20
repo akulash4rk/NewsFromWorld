@@ -1,0 +1,33 @@
+{
+  "originHash" : "5d3e67b4484eddae4e7fc4ab8762c0dba4c84cc850d687f20a8bf3ecfc51a1c7",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "optionallydecodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/idrougge/OptionallyDecodable",
+      "state" : {
+        "revision" : "0171cdf9e90233c68302b95fb6063f2f7279b031",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swifttranslate",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SkiingIsFun123/SwiftTranslate",
+      "state" : {
+        "revision" : "095ffb874d4205d9b5936cdd00d1a9ba77d57206",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
